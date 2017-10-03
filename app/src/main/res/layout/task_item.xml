@@ -12,5 +12,6 @@
         android:layout_alignParentTop="true"
         android:background="@color/yellow"
         android:padding="10dp"
-        android:textSize="20sp" />
+        android:textSize="20sp"
+        android:onClick="changeTaskStatus"/>
 </RelativeLayout>
